@@ -1,0 +1,2 @@
+# Dynamic
+Full Dynamic Site
